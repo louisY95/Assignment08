@@ -243,3 +243,5 @@ while (True):
         else:
             IO.input_press_to_continue("ok back to the menu!")
         continue  # to show the menu
+
+    #this is to show that changes to the script on desktop will also be changed on GitHub using Git
